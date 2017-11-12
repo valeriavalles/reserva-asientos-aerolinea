@@ -1,0 +1,13 @@
+.firts_class {
+    background: yellowgreen ;
+}
+.economic-class {
+    background: rgb(252, 126, 126);
+}
+
+.seats {
+    display :inline-block;
+    height: 100px;
+    width: 200px;
+    border:1px solid black;
+}
